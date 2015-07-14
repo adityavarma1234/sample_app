@@ -6,7 +6,12 @@
 
 # Ignore bundler config.
 /.bundle
-.idea/
+<<<<<<< HEAD
+.idea/*
+=======
+.idea/*
+
+>>>>>>> static-pages-exercises
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
