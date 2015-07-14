@@ -1,0 +1,14 @@
+language: ruby
+bundler_args: --without development
+env:
+  - CI=true
+rvm:
+  - 2.0.0-p598
+gemfile:
+  - Gemfile
+notifications:
+  recipients:
+    - aditya.varma@zoomcar.com
+branches:
+  only:
+    - master
