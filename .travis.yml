@@ -12,3 +12,6 @@ notifications:
 branches:
   only:
     - master
+addons: 
+  code_climate:
+    repo_token: 85e00903c6d991d95a230b9a324bf6993e11618ea90ba87fcd19eb590833ad42
