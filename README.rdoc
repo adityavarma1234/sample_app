@@ -1,0 +1,2 @@
+{<img src="https://codeclimate.com/github/adityavarma1234/sample_app/badges/gpa.svg" />}[https://codeclimate.com/github/adityavarma1234/sample_app]
+{<img src="https://codeclimate.com/github/adityavarma1234/sample_app/badges/gpa.svg" />}[https://codeclimate.com/github/adityavarma1234/sample_app]
